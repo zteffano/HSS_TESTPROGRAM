@@ -9,7 +9,7 @@ class TestAccountWorkshopEndpoints:
 
     TEST_ACCOUNT_WORKSHOP = {
         "accountId": 1,
-        "workshopId": 3
+        "workshopId": 2
     }
 
     def test_create_account_workshop_success(self):
